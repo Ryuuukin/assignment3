@@ -10,6 +10,7 @@ I used structure Object Adapter' described in refactoring-guru:
 
 
 WORKING LOGIC:
+
                 staff OR owner
              /                 \
      addFoundKitten       searchForLostkitten
